@@ -1,2 +1,2 @@
-# hack-the-south
+#  Hack The South Project
 Hack the south repository
